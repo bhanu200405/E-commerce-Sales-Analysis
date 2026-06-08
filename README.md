@@ -17,12 +17,12 @@ It transforms raw e-commerce data into meaningful insights and an interactive da
  * Verified date columns
 
 ## Business KPIs
-KPI							Value
-Total Sales					2,297,200.86
-Total Profit				286,397.02
-Total Quantity Sold			37,873
-Total Orders				5,009
-Average Sales per Record	229.86
+KPI							
+ * Total Sales   2,297,200.86
+ * Total Profit   286,397.02
+ * Total Quantity Sold   37,873
+ * Total Orders   5,009
+ * Average Sales per Record	229.86
 
 ## Analysis Performed
 Sales & Profit Analysis
@@ -68,15 +68,15 @@ Sales & Profit Analysis
 ### Business Insights
 ![KPI Dashboard](PowerBI/dashboard2.png)
 
-📌 Key Insights
+## Key Insights
  * Clear understanding of top-performing categories
  * Regional performance differences identified
  * Customer segments show distinct buying patterns
  * Discounts significantly impact profit margins
  * Strong seasonal sales trends observed
 
- 🧰 Tools Used
-Excel → Data cleaning and validation
-SQL → Data querying and analysis
-Python → Exploratory Data Analysis
-Power BI → Dashboard and visualization
+## Tools Used
+ * Excel → Data cleaning and validation
+ * SQL → Data querying and analysis
+ * Python → Exploratory Data Analysis
+ * Power BI → Dashboard and visualization
